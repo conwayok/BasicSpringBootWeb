@@ -1,2 +1,2 @@
 # BasicSpringBootWeb
-Basic SpringBoot project with web and test starters, and lombok.
+Basic SpringBoot project with web starters, test starters, and lombok.
