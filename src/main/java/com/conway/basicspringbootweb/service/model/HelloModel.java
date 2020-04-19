@@ -1,4 +1,4 @@
-package com.conway.BasicSpringBootWeb.service.model;
+package com.conway.basicspringbootweb.service.model;
 
 import lombok.Data;
 

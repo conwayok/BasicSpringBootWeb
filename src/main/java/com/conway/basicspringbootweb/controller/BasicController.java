@@ -1,6 +1,6 @@
-package com.conway.BasicSpringBootWeb.controller;
+package com.conway.basicspringbootweb.controller;
 
-import com.conway.BasicSpringBootWeb.service.BasicService;
+import com.conway.basicspringbootweb.service.BasicService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

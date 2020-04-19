@@ -1,4 +1,4 @@
-package com.conway.BasicSpringBootWeb.service;
+package com.conway.basicspringbootweb.service;
 
 import org.springframework.stereotype.Service;
 

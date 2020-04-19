@@ -1,4 +1,4 @@
-package com.conway.BasicSpringBootWeb;
+package com.conway.basicspringbootweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
